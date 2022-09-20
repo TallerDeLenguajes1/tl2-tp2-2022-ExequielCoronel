@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SztHZySQUZfXaa090Xg4+ALAE8kmNzqqfswV+0kL0A/NCIvGvPUWg3azmA+1903k9GR9V1qc4Prno/LAfvr8Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\LogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\execo\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

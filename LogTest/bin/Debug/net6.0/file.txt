@@ -1,0 +1,6 @@
+2022-09-20 18:44:01.5781|INFO|Program|Hola mundo!
+2022-09-20 18:44:01.5987|DEBUG|Program|Depurador
+2022-09-20 18:44:16.2598|INFO|Program|Hola mundo!
+2022-09-20 18:44:16.3074|DEBUG|Program|Depurador
+2022-09-20 18:44:40.1388|INFO|Program|Hola mundo!
+2022-09-20 18:44:41.3312|DEBUG|Program|Depurador
