@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\LogTest.csproj": {}
+    "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\Punto3\\Punto3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\LogTest.csproj": {
+    "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\Punto3\\Punto3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\LogTest.csproj",
-        "projectName": "LogTest",
-        "projectPath": "c:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\LogTest.csproj",
+        "projectUniqueName": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\Punto3\\Punto3.csproj",
+        "projectName": "Punto3",
+        "projectPath": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\Punto3\\Punto3.csproj",
         "packagesPath": "C:\\Users\\execo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\LogTest\\obj\\",
+        "outputPath": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN2\\tl2-tp2-2022-ExequielCoronel\\Punto3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\execo\\AppData\\Roaming\\NuGet\\NuGet.Config"
